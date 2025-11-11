@@ -1,0 +1,15 @@
+C:\Users\meypy\source\repos\work3\obj\Debug\net9.0\work3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meypy\source\repos\work3\obj\Debug\net9.0\work3.AssemblyInfoInputs.cache
+C:\Users\meypy\source\repos\work3\obj\Debug\net9.0\work3.AssemblyInfo.cs
+C:\Users\meypy\source\repos\work3\obj\Debug\net9.0\work3.csproj.CoreCompileInputs.cache
+C:\Users\meypy\source\repos\work3\obj\Debug\net9.0\work3.sourcelink.json
+C:\Users\meypy\source\repos\work3\bin\Debug\net9.0\work3.exe
+C:\Users\meypy\source\repos\work3\bin\Debug\net9.0\work3.deps.json
+C:\Users\meypy\source\repos\work3\bin\Debug\net9.0\work3.runtimeconfig.json
+C:\Users\meypy\source\repos\work3\bin\Debug\net9.0\work3.dll
+C:\Users\meypy\source\repos\work3\bin\Debug\net9.0\work3.pdb
+C:\Users\meypy\source\repos\work3\obj\Debug\net9.0\work3.dll
+C:\Users\meypy\source\repos\work3\obj\Debug\net9.0\refint\work3.dll
+C:\Users\meypy\source\repos\work3\obj\Debug\net9.0\work3.pdb
+C:\Users\meypy\source\repos\work3\obj\Debug\net9.0\work3.genruntimeconfig.cache
+C:\Users\meypy\source\repos\work3\obj\Debug\net9.0\ref\work3.dll
